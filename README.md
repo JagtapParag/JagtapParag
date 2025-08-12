@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst with a strong foundation in statistical analysis and data visualization. Proficient in Python (Pandas, NumPy, Matplotlib), SQL, and Tableau. Eager to apply analytical skills to real-world problems and contribute to data-driven insights. Actively building a portfolio of projects showcasing data cleaning, analysis, and reporting, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<JagtapParag>'s Stats](https://github-readme-stats.vercel.app/api?JagtapParag=<JagtapParag>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JagtapParag's Stats](https://github-readme-stats.vercel.app/api?username=JagtapParag&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
