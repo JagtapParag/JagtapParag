@@ -5,9 +5,9 @@ Aspiring Data Analyst with a strong foundation in statistical analysis and data 
 
 ## 🚀 About Me
 
-- 🔭 I completed my Master's in Information Technology from Deakin University.
+- 🔭 I completed my Master's in Information Technology from Deakin University, Melbourne, Australia.
 - 📝 I am passionate about Machine Learning and always seek the opportunity to work on new ideas for the project.
-- 🌐 Recently Computer Forensics and Investigations interests me a lot, love to solve the Cyber Crime Cases using a Linux OS, in my free time. 
+- 🌐 Recently Computer Forensics and Investigations have got my attention, I consider myself as a Cyber Crime Investigator who solves the Cyber Crime Cases, in my free time. 
 
 
 ## Tech Stack
